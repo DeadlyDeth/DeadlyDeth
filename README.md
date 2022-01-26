@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sabastian Diffey
+- 👀 I’m interested in Cataclysm Dark Days Ahead, And Bright Nights, A CDDA Spin off.
+- 🌱 I’m currently learning multiple progamming languages including C+, python, And java
+- 💞️ I’m looking to collaborate on nothing in particular, though help from the bright nights community would be helpful
